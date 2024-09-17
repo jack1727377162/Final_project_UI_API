@@ -1,0 +1,11 @@
+{
+    "base_url_ui": "https://www.kinopoisk.ru/",
+    "base_url_api": "https://api.kinopoisk.dev/v1.4/",
+    "token_info": {
+        "X-API-KEY": "J7C3QYE-7F54MQA-G538NSR-PTN93DY"
+    },
+    "auth_credentials": {
+        "username": "maxmaxjira@yandex.ru",
+        "password": "12kkK13jstVd15432TT"
+    }
+}
